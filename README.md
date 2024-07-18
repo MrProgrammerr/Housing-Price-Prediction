@@ -59,10 +59,10 @@ To use this project:
 - matplotlib
 
 ## How to Run
-1. Clone this repository: `git clone [repository URL]`
-2. Navigate to the project directory: `cd [project directory]`
+1. Clone this repository: `git clone 'https://github.com/MrProgrammerr/Housing-Price-Prediction'`
+2. Navigate to the project directory: `cd 'path/Housing-Price-Prediction'`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the script: `python script_name.py`
+4. Run the notobook: `House_Price_Prediction.ipynb`
 
 ## Author
 Chandan Kumar Nayak
